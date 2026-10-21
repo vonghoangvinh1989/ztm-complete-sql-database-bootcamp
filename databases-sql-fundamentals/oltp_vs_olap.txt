@@ -1,0 +1,5 @@
+OLTP: online transaction processing 
+    day-to-day transaction
+
+OLAP: online analytical processing
+    future decisions

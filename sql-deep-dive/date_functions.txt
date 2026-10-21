@@ -1,0 +1,6 @@
+Current date:
+    select NOW()::date;
+    select CURRENT_DATE; // return current date with format yyyy-mm-dd 
+
+Format date:
+    select to_char(CURRENT_DATE, 'dd/mm/yyyy');

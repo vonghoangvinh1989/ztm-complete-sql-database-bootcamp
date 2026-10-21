@@ -1,0 +1,17 @@
+1) extract day
+    select extract (day from date '1992/11/13') as DAY;
+
+2) extract month 
+    select extract (month from date '1992/11/13') as MONTH;
+
+3) extract year 
+    select extract (year from date '1992/11/13') as YEAR;
+
+4) round a date 
+    select date_trunc('year', date '1992/11/13'); --> give the result 1992, put month and 
+day to the lowest value '01-01', result is 1992-01-01
+
+    select date_trunc('month', date '1992/11/13'); --> result '1992-11-01'
+
+    select date_trunc('day', date '1992/11/13'); --> have meaning when using with timestamp
+

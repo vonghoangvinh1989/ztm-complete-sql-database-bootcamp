@@ -1,0 +1,8 @@
+Note:
+    " is for tables
+    ' is for text
+
+    for example
+        SELECT "first_name"
+        FROM "Employees"
+        WHERE "first_name" = 'Mayumi';

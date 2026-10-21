@@ -1,0 +1,14 @@
+1) query
+    select * from users
+    select name from users
+
+2) query breakdown
+    select name
+    from users
+    where role = 'manager'
+
+    name: identifier (or part of data)
+    role = 'manager': condition
+    'manager': expression
+
+note: sql is declarative language

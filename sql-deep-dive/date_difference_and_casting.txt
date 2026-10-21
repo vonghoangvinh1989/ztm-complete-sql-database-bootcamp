@@ -1,0 +1,5 @@
+1) difference
+    select now() - '1800/01/01'
+
+2) casting date 
+    select date '1800/01/01'

@@ -1,0 +1,5 @@
+1) calculate age with given date (make sure put cast to date)
+    select age(date '1800/01/01');
+
+    SELECT age(date '1992/11/13', date '1800/01/01');
+

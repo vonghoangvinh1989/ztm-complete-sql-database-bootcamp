@@ -1,0 +1,7 @@
+From -- table 
+  |
+  V
+Where -- filter
+  | 
+  V 
+Select -- result

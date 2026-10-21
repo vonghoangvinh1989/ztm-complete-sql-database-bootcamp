@@ -1,0 +1,3 @@
+a collection of columns we called 'degree'
+columns has 'attributes'
+each attributes has 'domain/contraint' related to it

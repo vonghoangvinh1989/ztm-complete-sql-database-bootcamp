@@ -1,0 +1,89 @@
+# section 1: introduction -> done
+
+# section 2: history and story of data
+what is a database -> done
+i didn't learn anything, try again... -> done
+database management system (DBMS) -> done
+exercise building amazon -> done
+exercise building amazon 2 -> done
+5 types of databases -> done
+exercise what is a database -> done
+section review -> done
+
+# section 3: database + sql fundamentals
+sql playground -> done
+what is sql -> done
+what is a query -> done
+exercise: setting up your first database -> done
+imperative vs declarative -> done
+history of sql -> done
+exercise: the select statement -> done
+optional history of sql deep dive -> done
+sql standards -> done
+what is a database? revisited -> done
+database oriented approach -> done
+exercise sql starter quiz -> done
+database models -> done
+hierarchical and networking model -> done
+relational model -> done
+dbms revisited -> done
+relational model revisited -> done
+tables -> done
+columns -> done
+rows -> done
+primary and foreign keys -> done
+oltp vs olap -> done
+exercise: oltp vs olap -> done
+exercise: relationall model quiz -> done
+
+# environment setup
+why postgresql -> done
+environment tooling -> done
+command line 101 -> done
+windows setup -> done
+importing the databases -> done
+
+# sql deep dive
+query along -> done
+starting with query -> done
+exercise: simple queries -> done
+changing column names in a select query -> done
+concat function -> done
+what is a function in sql -> done
+aggregate functions -> done
+commenting your queries -> done
+common select mistakes -> done
+filtering data -> done
+and and or -> done
+exercise filtering data -> done
+the not keyword -> done
+exercise the where clause -> done
+comparison operators -> done
+exercise comparison operators -> done
+logical operators -> done
+operator precedence -> done
+operator precedence 2 -> done
+operator precedence extra -> done
+exercise operator precedence -> done
+checking for NULL Values -> done
+IS Keyword -> done
+null coalescing -> done
+exercise null value coalescing -> done
+3 valued logic -> done
+exercise 3 valued logic -> done
+between and -> done
+exercise between and -> done
+in keyword -> done
+exericse in keyword -> done
+like -> done
+exercise like keyword -> done
+dates and timezones -> done
+setting up timezones -> done
+how do we format date and time -> done
+date functions -> done 
+date difference and casting -> done 
+age calculation -> done 
+extracting information -> done
+intervals -> done
+exercise: date and timestamp --> waiting
+

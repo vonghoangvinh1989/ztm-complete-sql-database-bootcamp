@@ -1,0 +1,4 @@
+Another word for row is 'tuple'
+    - single row of data
+
+all rows in table we called: cardinality

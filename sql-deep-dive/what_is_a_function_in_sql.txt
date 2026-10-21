@@ -1,0 +1,12 @@
++ aggregate function
+    take all the data and generate one value
+    --> operate on many records to produce 1 value
+
+    examples:
+        avg() -- calculates the average of a set of values
+        count()
+
++ scala function
+    like 'concat' did
+    they run against each individual row
+    --> operate on each record independently
