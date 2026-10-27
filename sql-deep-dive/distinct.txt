@@ -1,0 +1,8 @@
+Remove duplicates: distince clause keeps one row for each group of duplicates 
+    select 
+        distince <col1>, <col2>
+    from 
+        <table>;
+
+    Ex: select distince salary from salaries;
+    
